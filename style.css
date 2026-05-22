@@ -23,5 +23,7 @@ ul li a {
   text-decoration: none;
 }
 .me{
-  padding:80px;
+padding: 25px;
+  border: double;
+  border-color: #3dffff
 }
